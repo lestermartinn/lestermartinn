@@ -10,14 +10,14 @@
 ---
 
 ### About Me
-I'm a third-year Computer Science and Economics student at Emory University, passionate about software engineering. My interests lie in web and game development, machine learning, and large language models (LLMs). I enjoy solving real-world problems through code and am always eager to learn new technologies.
-- 🔭 Currently working on **Cognitive Bias Detection with LLMs** research
-- 🌱 Latest development: **Soundgaze**, a 3D music exploration tool, submitted for Hacklytics @ Georgia Institute of Technology
-- 📍 Based in Atlanta, GA & Miami, FL
+I'm a fourth-year Computer Science and Economics student at Emory University, passionate about software engineering. My interests lie in web and game development, machine learning, and large language models (LLMs). I enjoy solving real-world problems through code and am always eager to learn new technologies.
+- Currently working on **Cognitive Bias Detection with LLMs** research
+- Latest development: **Soundgaze**, a 3D music exploration tool, submitted for Hacklytics @ Georgia Institute of Technology
+- Based in Atlanta, GA & Miami, FL
 
 ---
 
-### 🖥️ Frontend
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +29,7 @@ I'm a third-year Computer Science and Economics student at Emory University, pas
 
 ---
 
-### ⚙️ Backend
+### Backend
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ I'm a third-year Computer Science and Economics student at Emory University, pas
 
 ---
 
-### 🤖 Machine Learning
+### Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,7 +49,7 @@ I'm a third-year Computer Science and Economics student at Emory University, pas
 
 ---
 
-### 🚀 DevOps
+### DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
