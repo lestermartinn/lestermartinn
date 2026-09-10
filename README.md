@@ -11,9 +11,6 @@
 
 ### About Me
 I'm a fourth-year Computer Science and Economics student at Emory University, passionate about software engineering. My interests lie in web and game development, machine learning, and large language models (LLMs). I enjoy solving real-world problems through code and am always eager to learn new technologies.
-- Currently working on **Cognitive Bias Detection with LLMs** research
-- Latest development: **Soundgaze**, a 3D music exploration tool, submitted for Hacklytics @ Georgia Institute of Technology
-- Based in Atlanta, GA & Miami, FL
 
 ---
 
